@@ -6,4 +6,8 @@
 - Pandas  
 - NumPy  
 - Scikit-learn  
-- Matplotlib / Seaborn  
+- Matplotlib / Seaborn
+
+- Author
+
+Gustavo Henrique Silva Alves
