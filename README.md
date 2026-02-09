@@ -8,6 +8,6 @@
 - Scikit-learn  
 - Matplotlib / Seaborn
 
-- Author
+ Author
 
 Gustavo Henrique Silva Alves
