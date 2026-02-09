@@ -1,13 +1,15 @@
 ## Exercícos básicos de Regressão Linear e Regressão Logística
 
+Goal: 
+- Entender conceito básicos de Machine Learning com estes exemplos
 
-## 🧰 Tech Stack
+Tools:
 - Python  
 - Pandas  
 - NumPy  
 - Scikit-learn  
 - Matplotlib / Seaborn
 
- Author
+Author
 
 Gustavo Henrique Silva Alves
